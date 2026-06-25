@@ -16,7 +16,7 @@ projects = [
         "icon": "🌐",
         "name": "Portfolio",
         "desc": "Personal portfolio site with an embedded AI resume agent — machine-readable JSON for recruiting tools.",
-        "stack": ["HTML", "CSS", "JavaScript"],
+        "stack": ["React", "FastAPI", "Python", "GitHub Pages"],
         "status": "live",
         "link": "https://hemanthloq.github.io",
         "difficulty": "easy",

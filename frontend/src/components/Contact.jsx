@@ -49,7 +49,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://heddy-portfolio-api.onrender.com/resume"
+              href="https://react-fastapi-portfolio.onrender.com/resume"
               className="contact-link"
               target="_blank"
               rel="noreferrer"
@@ -70,7 +70,7 @@ export default function Contact() {
             </p>
             <div className="resume-actions">
               <a
-                href="https://heddy-portfolio-api.onrender.com/resume"
+                href="https://react-fastapi-portfolio.onrender.com/resume"
                 className="resume-btn primary"
                 target="_blank"
                 rel="noreferrer"

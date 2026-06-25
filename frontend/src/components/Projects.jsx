@@ -8,7 +8,7 @@ export default function Projects() {
   const [projects, setProjects] = useState([]);
 
 useEffect(() => {
-  fetch("https://heddy-portfolio-api.onrender.com/projects")
+  fetch("https://react-fastapi-portfolio.onrender.com/projects")
     .then(res => res.json())
     .then(data => setProjects(data));
 }, []);
